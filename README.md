@@ -69,8 +69,12 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [nekoray-4.0.1-2024-12-12-windows64](https://github.com/irasoul/downloader/tree/main/downloads/nekoray-4.0.1-2024-12-12-windows64)
+1. [MahsaNG_15_universal](https://github.com/irasoul/downloader/tree/main/downloads/MahsaNG_15_universal)
+
+2. [nekoray-4.0.1-2024-12-12-windows64](https://github.com/irasoul/downloader/tree/main/downloads/nekoray-4.0.1-2024-12-12-windows64)
 
 ---
